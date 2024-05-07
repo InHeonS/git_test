@@ -1,1 +1,1 @@
-console.log("홈페이지");
+console.log("First Homepage");
